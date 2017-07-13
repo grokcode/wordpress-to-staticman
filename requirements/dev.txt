@@ -1,0 +1,8 @@
+-r base.txt
+
+flake8
+pytest
+pytest-cov
+sphinx
+tox
+testfixtures==5.1.1
