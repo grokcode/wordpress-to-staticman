@@ -91,7 +91,7 @@ def parse_args(args):
     )
     parser.add_argument(
         "output",
-         help="Directory to output Postman formatted comments"
+        help="Directory to output Postman formatted comments"
     )
     return parser.parse_args(args)
 
